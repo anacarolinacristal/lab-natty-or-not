@@ -20,23 +20,30 @@ Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisicu
 ### Template
 
 ```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+#  IA Generativa no Compliance Bancário
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+Este e-book explora como os bancos podem utilizar as IAs Generativas no Compliance
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+
+IA Generativa ChatGPT para roteirização;
+Bing Images  e Co-Pilot para crirar a arte visual do e-book;
+Ferramenta Word para edição.
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+Utilizei o "ChatGPT" para revisar minha pesquisa sobre IAs Generativas, estruturar o conteúdo e refinar minhas ideias. O Co-Pilot e Bing Images foram  usados para gerar imagens para o nosso e-book. Para concluir, a montagem final foi feita no Word.
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+O e-book demonstra como as IAs Generativas podem ser uma ferramenta poderosa no compliance bancário.
+
+https://github.com/anacarolinacristal/lab-natty-or-not/blob/main/exemplos/IA%20generativa%20na%20compliance%20banc%C3%A1ria.pdf
 
 ## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
-```
+Criando esse e-book foi possível verificar que o setor financeiro brasileiro integrando IA Generativa pode aumentar a produtividade, desenvolver colaboradores, mitigar riscos de TI e reforçar a segurança cibernética.
+
+
+
 
 ### Exemplos e Insigths
 
