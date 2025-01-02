@@ -37,7 +37,7 @@ Utilizei o "ChatGPT" para revisar minha pesquisa sobre IAs Generativas, estrutur
 ## 🚀 Resultados
 O e-book demonstra como as IAs Generativas podem ser uma ferramenta poderosa no compliance bancário.
 
-<a https://github.com/anacarolinacristal/lab-natty-or-not/blob/main/exemplos/IA%20generativa%20na%20compliance%20banc%C3%A1ria.pdf</a>
+<a href="https://github.com/anacarolinacristal/lab-natty-or-not/blob/main/exemplos/IA%20generativa%20na%20compliance%20banc%C3%A1ria.pdf">Flex Grid</a>
 
 ## 💭 Reflexão (Opcional)
 Criando esse e-book foi possível verificar que o setor financeiro brasileiro integrando IA Generativa pode aumentar a produtividade, desenvolver colaboradores, mitigar riscos de TI e reforçar a segurança cibernética.
